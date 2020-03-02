@@ -1,0 +1,2 @@
+# MyScalaRepo
+My Scala Repo
