@@ -1,5 +1,0 @@
-package retcalc
-
-class RetCalcSpec {
-
-}
